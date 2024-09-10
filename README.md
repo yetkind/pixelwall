@@ -1,4 +1,4 @@
-# pixelwall
+# pixel wall
 
 
 1 Install virtualenv if you don't have it
